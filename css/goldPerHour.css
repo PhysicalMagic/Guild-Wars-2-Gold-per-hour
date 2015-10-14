@@ -4,7 +4,7 @@ a {
 }
 
 body {
-    background-image: url(../img/dark_mosaic.png);
+    background: #F4F4F4;
     color: #565656;
     font-family: 'Source Sans Pro', sans-serif;
     padding-bottom: 25px;
