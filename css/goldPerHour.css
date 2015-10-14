@@ -4,16 +4,16 @@ a {
 }
 
 body {
-    background: #F4F4F4;
+    background: #383838;
     color: #565656;
     font-family: 'Source Sans Pro', sans-serif;
     padding-bottom: 25px;
 }
 
 button {
-    background: #F52B2B;
+    background: #444;
     border: 0px;
-    color: white;
+    color: #CCC;
     padding: 5px 10px;
     vertical-align: middle;
 }
@@ -138,7 +138,7 @@ label {
 }
 
 #main {
-    background: url(../img/grey.png);
+    background: #323232;
     box-sizing: border-box;
     display: none;
     margin: auto;
