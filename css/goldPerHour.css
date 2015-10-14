@@ -11,15 +11,14 @@ body {
 }
 
 button {
-    background: linear-gradient(#F52B2B, #A70000);
-    border: 1px solid gray;
+    background: #F52B2B;
     color: white;
     padding: 5px 10px;
     vertical-align: middle;
 }
 
 button:hover {
-    background: linear-gradient(#FF7E7E, #E80404);
+    background: #FF7E7E;
 }
 
 footer {
@@ -33,9 +32,8 @@ footer a {
 }
 
 h1 {
-    color: white;
+    color: 383838;
     margin-left: 3%;
-    text-shadow: 0px 0px 15px #A9A9A9;
 }
 
 h2 {
@@ -98,8 +96,7 @@ label {
 
 /* Intro page */
 #intro {
-    background: url(../img/grey.png);
-    box-shadow: 0px 0px 65px 2px #000000;
+    background: #DDD;
     box-sizing: border-box;
     margin: auto;
     padding: 30px;
