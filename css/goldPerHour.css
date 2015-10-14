@@ -12,6 +12,7 @@ body {
 
 button {
     background: #F52B2B;
+    border: 0px;
     color: white;
     padding: 5px 10px;
     vertical-align: middle;
