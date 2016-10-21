@@ -9,9 +9,9 @@
 (function () {
 //Constants
     //After how many ticks shall we fetch the data again
-    var REFRESH_RATE = 180;
+    var REFRESH_RATE = 45;
     //Animation duration - used for all animations
-    var ANIMATION_DURATION = 200;
+    var ANIMATION_DURATION = 100;
     //Sound effect
     var SOUND_EFFECT = new Audio('sounds/ding.mp3');
 
